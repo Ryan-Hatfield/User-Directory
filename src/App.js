@@ -38,11 +38,9 @@ function App() {
         filterName={filterName}
         filterDepartment={filterDepartment}
       />
-      <Main>
         {Users.map(event => {
           return (<Main {...event} />)
         })}
-      </Main>
     </div>
   );
  
