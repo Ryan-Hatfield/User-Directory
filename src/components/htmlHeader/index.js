@@ -10,9 +10,8 @@ function htmlHeader(props) {
             <ul className="navbar-nav">
                 <li className="nav-item">
                     <form className="form-inline my-2 my-lg-0">
-                        <input className="form-control mr-sm-2" placeholder="Enter Name" aria-label="Search" type="text" required></input>
-                        <button type="button" className="btn btn-primary" onClick={props.filterName}>Search</button>
-                        <button type="button" className="btn btn-primary" onClick={props.filterDepartment}>Sort by Department</button>
+                        <button type="button" className="btn btn-primary" id="btn2" onClick={props.filterName}>Sort by Name </button>
+                        <button type="button" className="btn btn-primary" id="btn3" onClick={props.filterDepartment}>Sort by Department</button>
                     </form>
                 </li>
             </ul>
