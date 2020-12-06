@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Paul Jones",
+        "position": "Manager",
+        "department": "Administration",
+        "email": "pjones@react.com"
+    },
+    {
+        "id": 2,
+        "name": "Michael Smith",
+        "position": "Supervisor",
+        "department": "Administration",
+        "email": "msmith@react.com"
+    },
+    {
+        "id": 3,
+        "name": "Heather Johnson",
+        "position": "Field Operator",
+        "department": "Operations",
+        "email": "hjohnson@react.com"
+    },
+    {
+        "id": 4,
+        "name": "James Jackson",
+        "position": "IT Specialist",
+        "department": "Operations",
+        "email": "jjackson@react.com"
+    },
+    {
+        "id": 5,
+        "name": "Melissa Smith",
+        "position": "Staff Accountant",
+        "department": "Accounting",
+        "email": "msmith@react.com"
+    },
+    {
+        "id": 6,
+        "name": "Susan Sanders",
+        "position": "Controller",
+        "department": "Accounting",
+        "email": "ssanders@react.com"
+    }
+]
