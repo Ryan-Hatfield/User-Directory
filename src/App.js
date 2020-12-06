@@ -39,9 +39,7 @@ function App() {
         filterDepartment={filterDepartment}
       />
       <Main>
-        {Users.map(event => {
-          return (<Main {...event} />)
-        })}
+     
       </Main>
     </div>
   );

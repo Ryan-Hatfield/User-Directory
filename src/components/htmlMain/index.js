@@ -3,6 +3,7 @@ import "./style.css";
 
 
 function htmlMain(props) {
+    console.log(props);
     return (
         <main className="wrap">
         <div class="card">
@@ -17,6 +18,8 @@ function htmlMain(props) {
       </div>
       </main>
     )
+    
 }
+
 
 export default htmlMain;
